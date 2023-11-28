@@ -9,7 +9,6 @@
 Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
-Проекты:
 Проект 1: тест программного продукта для учителей от Skyeng новой функции (личные события)
 
 Что нужно было сделать:
