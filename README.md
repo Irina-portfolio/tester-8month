@@ -79,5 +79,6 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 логин ira.blyudenovsa@list.ru
 пароль suprun1807
 
+
 Контактная информация
 Email: ira.blyudenova@list.ru
