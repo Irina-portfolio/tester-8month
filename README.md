@@ -42,6 +42,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 логин ira.blyudenovsa@list.ru
 пароль suprun1807
 
+
 Проект 2: тест кабинета учителя в приложении Skyeng
 
 Что нужно было сделать:
